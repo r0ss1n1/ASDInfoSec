@@ -1,0 +1,904 @@
+
+
+## 1. Cyber Security Framework
+## 2. Guidelines for cyber security roles
+## 3. Guidelines for authorising systems
+## 4. Guidelines for cyber security incidents
+## 5. Guidelines for outsourcing
+## 6. Guidelines for security documentation
+## 7. Guidelines for physical security
+## 8. Guidelines for personnel security
+## 9. Guidelines for communications infrastructure
+## 10. Guidelines for communications systems
+## 11. Guidelines for enterprise mobility
+## 12. Guidelines for evaluated products
+## 13. Guidelines for ICT equipment management
+## 14. Guidelines for media management
+## 15. Guidelines for system hardening
+## 16. Guidelines for system management
+## 17. Guidelines for system monitoring
+## 18. Guidelines for software development
+## 19. Guidelines for database systems management
+## 20. Guidelines for email management 
+## 21. Guidelines for network management
+## 22. Guidelines for using cryptography
+## 23. Guidelines for gateway management
+## 24. Guidelines for data transfers and content filtering
+## 25. Supporting information
+
+
+
+
+# 1. Cyber Security Framework
+## 2. Guidelines for cyber security roles
+## 3. Guidelines for authorising systems
+## 4. Guidelines for cyber security incidents
+## 5. Guidelines for outsourcing
+## 6. Guidelines for security documentation
+## 7. Guidelines for physical security
+## 8. Guidelines for personnel security
+## 9. Guidelines for communications infrastructure
+## 10. Guidelines for communications systems
+## 11. Guidelines for enterprise mobility
+## 12. Guidelines for evaluated products
+## 13. Guidelines for ICT equipment management
+## 14. Guidelines for media management
+## 15. Guidelines for system hardening
+## 16. Guidelines for system management
+## 17. Guidelines for system monitoring
+## 18. Guidelines for software development
+## 19. Guidelines for database systems management
+## 20. Guidelines for email management
+## 21. Guidelines for network management
+## 22. Guidelines for using cryptography
+## 23. Guidelines for gateway management
+## 24. Guidelines for data transfers and content filtering
+## 25. Supporting information
+
+
+Guidelines for cyber security roles (6)
+
+Security Control: 0714
+Security Control: 1478
+Security Control: 1071
+Security Control: 1525
+Security Control: 0027
+Security Control: 1526
+
+Guidelines for authorising systems (7)
+
+Security Control: 0064
+Security Control: 0809
+Security Control: 0904
+Security Control: 1531
+Security Control: 0805
+Security Control: 1140
+Security Control: 0100
+
+Guidelines for cyber security incidents (11)
+
+Security Control: 0120
+Security Control: 0122
+Security Control: 0125
+Security Control: 0133
+Security Control: 0917
+Security Control: 0137
+Security Control: 1213
+Security Control: 0138
+Security Control: 0123
+Security Control: 0141
+Security Control: 0140
+
+Guidelines for outsourcing (7)
+
+Security Control: 1395
+Security Control: 1529
+Security Control: 1396
+Security Control: 0873
+Security Control: 0072
+Security Control: 1073
+Security Control: 1451
+Security Control: 1452
+
+Guidelines for security documentation (5)
+
+Security Control: 0047
+Security Control: 0888
+Security Control: 0041
+Security Control: 0042
+Security Control: 0043
+
+Guidelines for physical security
+
+Security Control: 0810
+Security Control: 1053
+Security Control: 1530
+Security Control: 0813
+Security Control: 1074
+Security Control: 0157
+Security Control: 1296
+Security Control: 0164
+Security Control: 0336
+Security Control: 0159
+Security Control: 0161
+Security Control: 0221
+Security Control: 0222
+Security Control: 0223
+Security Control: 0224
+Security Control: 1058
+Security Control: 1155
+Security Control: 0225
+Security Control: 0829
+
+
+Guidelines for personnel security
+
+Security Control: 0252
+Security Control: 0817
+Security Control: 0820
+Security Control: 1146
+Security Control: 0821
+Security Control: 0824
+Security Control: 0432
+Security Control: 0434
+Security Control: 0435
+Security Control: 0405
+Security Control: 1503
+Security Control: 0409
+Security Control: 0411
+Security Control: 0816
+Security Control: 1507
+Security Control: 1508
+Security Control: 0445
+Security Control: 1509
+Security Control: 1175
+Security Control: 0446
+Security Control: 0447
+Security Control: 0448
+Security Control: 0430
+Security Control: 1404
+Security Control: 0407
+Security Control: 0441
+Security Control: 0443
+Security Control: 0078
+Security Control: 0854
+
+Guidelines for communications infrastructure
+
+Security Control: 0181
+Security Control: 0926
+Security Control: 0186
+Security Control: 0825
+Security Control: 0827
+Security Control: 0826
+Security Control: 0828
+Security Control: 1215
+Security Control: 1216
+Security Control: 1112
+Security Control: 1118
+Security Control: 1119
+Security Control: 1126
+Security Control: 0184
+Security Control: 0187
+Security Control: 1111
+Security Control: 1117
+Security Control: 1125
+Security Control: 0182
+Security Control: 0189
+Security Control: 0190
+Security Control: 1114
+Security Control: 1120
+Security Control: 1127
+Security Control: 1128
+Security Control: 1130
+Security Control: 1131
+Security Control: 1164
+Security Control: 1165
+Security Control: 0195
+Security Control: 0194
+Security Control: 1102
+Security Control: 1101
+Security Control: 1103
+Security Control: 1098
+Security Control: 1099
+Security Control: 1100
+Security Control: 1116
+Security Control: 1124
+Security Control: 1136
+Security Control: 1115
+Security Control: 1121
+Security Control: 1132
+Security Control: 1133
+Security Control: 1122
+Security Control: 1134
+Security Control: 1104
+Security Control: 1105
+Security Control: 1106
+Security Control: 1107
+Security Control: 1108
+Security Control: 1109
+Security Control: 1110
+Security Control: 0198
+Security Control: 1123
+Security Control: 1135
+Security Control: 0201
+Security Control: 0202
+Security Control: 0203
+Security Control: 0204
+Security Control: 1095
+Security Control: 0205
+Security Control: 0206
+Security Control: 1096
+Security Control: 0207
+Security Control: 0208
+Security Control: 0210
+Security Control: 0211
+Security Control: 0213
+Security Control: 1093
+Security Control: 0214
+Security Control: 1094
+Security Control: 0215
+Security Control: 0216
+Security Control: 0217
+Security Control: 0218
+Security Control: 0247
+Security Control: 0248
+Security Control: 1137
+Security Control: 0932
+Security Control: 0249
+Security Control: 0246
+Security Control: 0250
+
+
+Guidelines for communications systems
+
+Security Control: 1078
+Security Control: 0229
+Security Control: 0230
+Security Control: 0231
+Security Control: 0232
+Security Control: 0233
+Security Control: 0234
+Security Control: 0235
+Security Control: 0236
+Security Control: 0931
+Security Control: 0237
+Security Control: 0546
+Security Control: 0547
+Security Control: 0548
+Security Control: 0554
+Security Control: 0553
+Security Control: 0555
+Security Control: 0551
+Security Control: 0552
+Security Control: 0549
+Security Control: 0550
+Security Control: 0556
+Security Control: 0557
+Security Control: 1015
+Security Control: 0558
+Security Control: 0559
+Security Control: 1450
+Security Control: 1019
+Security Control: 0588
+Security Control: 1092
+Security Control: 0241
+Security Control: 1075
+Security Control: 0245
+Security Control: 0590
+Security Control: 0589
+Security Control: 1036
+
+Guidelines for enterprise mobility
+
+Security Control: 1533
+Security Control: 1195
+Security Control: 0687
+Security Control: 1399
+Security Control: 1400
+Security Control: 0694
+Security Control: 1297
+Security Control: 1481
+Security Control: 1482
+Security Control: 0869
+Security Control: 1085
+Security Control: 1202
+Security Control: 0682
+Security Control: 1196
+Security Control: 1200
+Security Control: 1198
+Security Control: 1199
+Security Control: 0862
+Security Control: 0863
+Security Control: 0864
+Security Control: 1365
+Security Control: 1366
+Security Control: 0874
+Security Control: 0705
+Security Control: 1082
+Security Control: 1083
+Security Control: 0240
+Security Control: 0866
+Security Control: 1145
+Security Control: 0871
+Security Control: 0870
+Security Control: 1084
+Security Control: 0701
+Security Control: 0702
+Security Control: 1298
+Security Control: 1087
+Security Control: 1299
+Security Control: 1088
+Security Control: 1300
+
+Guidelines for evaluated products
+
+Security Control: 0280
+Security Control: 0285
+Security Control: 0286
+Security Control: 0289
+Security Control: 0290
+Security Control: 0292
+
+
+Guidelines for ICT equipment management
+
+Security Control: 0293
+Security Control: 0294
+Security Control: 0296
+Security Control: 0305
+Security Control: 1079
+Security Control: 0307
+Security Control: 0306
+Security Control: 0310
+Security Control: 0944
+Security Control: 0313
+Security Control: 0311
+Security Control: 1217
+Security Control: 0316
+Security Control: 0315
+Security Control: 1218
+Security Control: 0312
+Security Control: 0317
+Security Control: 1219
+Security Control: 1220
+Security Control: 1221
+Security Control: 0318
+Security Control: 1534
+Security Control: 1076
+Security Control: 1222
+Security Control: 1223
+Security Control: 1225
+Security Control: 1226
+Security Control: 1359
+
+
+Guidelines for media management
+
+Security Control: 0323
+Security Control: 0325
+Security Control: 0331
+Security Control: 0330
+Security Control: 0332
+Security Control: 0337
+Security Control: 0341
+Security Control: 0342
+Security Control: 0343
+Security Control: 0345
+Security Control: 0831
+Security Control: 1059
+Security Control: 0347
+Security Control: 0338
+Security Control: 0348
+Security Control: 0351
+Security Control: 0352
+Security Control: 0835
+Security Control: 1065
+Security Control: 0354
+Security Control: 1067
+Security Control: 0356
+Security Control: 0357
+Security Control: 0836
+Security Control: 0358
+Security Control: 0359
+Security Control: 0360
+Security Control: 0947
+Security Control: 1464
+Security Control: 0363
+Security Control: 0350
+Security Control: 1361
+Security Control: 1160
+Security Control: 1517
+Security Control: 0366
+Security Control: 0368
+Security Control: 0361
+Security Control: 0838
+Security Control: 0362
+Security Control: 0370
+Security Control: 0371
+Security Control: 0372
+Security Control: 0373
+Security Control: 0840
+Security Control: 0839
+Security Control: 1069
+Security Control: 0374
+Security Control: 0375
+Security Control: 0378
+
+Guidelines for system hardening
+
+Security Control: 1407
+Security Control: 1408
+Security Control: 1409
+Security Control: 0383
+Security Control: 0380
+Security Control: 1491
+Security Control: 1410
+Security Control: 1469
+Security Control: 0382
+Security Control: 0843
+Security Control: 1490
+Security Control: 0846
+Security Control: 0955
+Security Control: 1471
+Security Control: 1392
+Security Control: 0957
+Security Control: 1414
+Security Control: 1492
+Security Control: 1341
+Security Control: 1034
+Security Control: 1416
+Security Control: 1417
+Security Control: 1390
+Security Control: 1418
+Security Control: 0938
+Security Control: 1467
+Security Control: 1483
+Security Control: 1412
+Security Control: 1484
+Security Control: 1485
+Security Control: 1486
+Security Control: 1541
+Security Control: 1542
+Security Control: 1470
+Security Control: 1487
+Security Control: 1488
+Security Control: 1489
+Security Control: 0414
+Security Control: 1538
+Security Control: 0420
+Security Control: 0975
+Security Control: 0415
+Security Control: 0417
+Security Control: 0421
+Security Control: 0422
+Security Control: 0423
+Security Control: 1426
+Security Control: 0974
+Security Control: 1173
+Security Control: 1504
+Security Control: 1505
+Security Control: 1401
+Security Control: 1055
+Security Control: 1403
+Security Control: 0431
+Security Control: 0976
+Security Control: 1227
+Security Control: 0418
+Security Control: 1402
+Security Control: 0428
+Security Control: 0408
+Security Control: 0979
+Security Control: 1380
+Security Control: 1473
+Security Control: 1382
+Security Control: 1381
+Security Control: 1383
+Security Control: 1384
+Security Control: 1385
+Security Control: 1386
+Security Control: 1474
+Security Control: 1387
+Security Control: 1388
+Security Control: 1143
+Security Control: 1493
+Security Control: 1144
+Security Control: 0940
+Security Control: 1472
+Security Control: 1494
+Security Control: 1495
+Security Control: 1496
+Security Control: 0300
+Security Control: 0298
+Security Control: 0303
+Security Control: 1497
+Security Control: 1498
+Security Control: 1499
+Security Control: 1500
+Security Control: 0304
+Security Control: 1501
+Security Control: 1211
+Security Control: 0115
+Security Control: 1510
+Security Control: 1511
+Security Control: 1512
+Security Control: 1513
+Security Control: 1514
+Security Control: 1515
+Security Control: 1516
+
+Guidelines for system monitoring
+
+Security Control: 0580
+Security Control: 1405
+Security Control: 0988
+Security Control: 0584
+Security Control: 0582
+Security Control: 1536
+Security Control: 1537
+Security Control: 0585
+Security Control: 0586
+Security Control: 0859
+Security Control: 0991
+Security Control: 0109
+Security Control: 1228
+Security Control: 1163
+Security Control: 0911
+Security Control: 0400
+Security Control: 1419
+Security Control: 1420
+Security Control: 1422
+Security Control: 1238
+Security Control: 0401
+Security Control: 0402
+Security Control: 1239
+Security Control: 1240
+Security Control: 1241
+Security Control: 1424
+Security Control: 0971
+
+
+Guidelines for database system management
+
+Security Control: 1425
+Security Control: 1269
+Security Control: 1277
+Security Control: 1270
+Security Control: 1271
+Security Control: 1272
+Security Control: 1273
+Security Control: 1245
+Security Control: 1246
+Security Control: 1247
+Security Control: 1249
+Security Control: 1250
+Security Control: 1251
+Security Control: 1260
+Security Control: 1262
+Security Control: 1261
+Security Control: 1263
+Security Control: 1264
+Security Control: 1243
+Security Control: 1256
+Security Control: 1252
+Security Control: 0393
+Security Control: 1255
+Security Control: 1268
+Security Control: 1258
+Security Control: 1274
+Security Control: 1275
+Security Control: 1276
+Security Control: 1278
+
+Guidelines for email management (28)
+
+Security Control: 0264
+Security Control: 0267
+Security Control: 0270
+Security Control: 0271
+Security Control: 0272
+Security Control: 1089
+Security Control: 0565
+Security Control: 1023
+Security Control: 1539
+Security Control: 0269
+Security Control: 0569
+Security Control: 0571
+Security Control: 0570
+Security Control: 0567
+Security Control: 0572
+Security Control: 0574
+Security Control: 1183
+Security Control: 1151
+Security Control: 1152
+Security Control: 0861
+Security Control: 1025
+Security Control: 1026
+Security Control: 1027
+Security Control: 1540
+Security Control: 1234
+Security Control: 0561
+Security Control: 1502
+Security Control: 1024
+
+Guidelines for network management (32)
+
+Security Control: 0516
+Security Control: 0518
+Security Control: 1178
+Security Control: 1181
+Security Control: 1310
+Security Control: 1532
+Security Control: 0529
+Security Control: 1364
+Security Control: 0535
+Security Control: 0530
+Security Control: 0521
+Security Control: 1186
+Security Control: 1428
+Security Control: 1429
+Security Control: 1430
+Security Control: 0520
+Security Control: 1182
+Security Control: 1427
+Security Control: 1301
+Security Control: 1304
+Security Control: 0534
+Security Control: 0385
+Security Control: 1479
+Security Control: 1460
+Security Control: 1461
+Security Control: 1006
+Security Control: 1311
+Security Control: 1312
+Security Control: 0576
+Security Control: 1028
+Security Control: 1030
+Security Control: 1185
+
+Wireless networks (24)
+
+Security Control: 1314
+Security Control: 0536
+Security Control: 1315
+Security Control: 1316
+Security Control: 1317
+Security Control: 1318
+Security Control: 1319
+Security Control: 1320
+Security Control: 1321
+Security Control: 1322
+Security Control: 1324
+Security Control: 1323
+Security Control: 1325
+Security Control: 1326
+Security Control: 1327
+Security Control: 1330
+Security Control: 1454
+Security Control: 1332
+Security Control: 0543
+Security Control: 1445
+Security Control: 1334
+Security Control: 1335
+Security Control: 1338
+Security Control: 1013
+
+Service continuity for online services (12)
+
+Security Control: 1458
+Security Control: 1431
+Security Control: 1432
+Security Control: 1433
+Security Control: 1434
+Security Control: 1435
+Security Control: 1436
+Security Control: 1518
+Security Control: 1437
+Security Control: 1438
+Security Control: 1439
+Security Control: 1441
+
+Guidelines for using cryptography (26)
+
+Security Control: 1161
+Security Control: 0457
+Security Control: 0460
+Security Control: 0459
+Security Control: 0461
+Security Control: 1080
+Security Control: 0455
+Security Control: 0462
+Security Control: 1162
+Security Control: 0465
+Security Control: 0467
+Security Control: 0469
+Security Control: 0471
+Security Control: 0994
+Security Control: 0472
+Security Control: 0473
+Security Control: 1446
+Security Control: 0474
+Security Control: 0475
+Security Control: 0476
+Security Control: 0477
+Security Control: 1054
+Security Control: 0479
+Security Control: 0480
+Security Control: 1232
+Security Control: 1468
+
+ASD Approved Cryptographic Protocols (18)
+
+Security Control: 0481
+Security Control: 1139
+Security Control: 1369
+Security Control: 1370
+Security Control: 1371
+Security Control: 1372
+Security Control: 1448
+Security Control: 1373
+Security Control: 1374
+Security Control: 1375
+Security Control: 1453
+Security Control: 1506
+Security Control: 0484
+Security Control: 0485
+Security Control: 1449
+Security Control: 0487
+Security Control: 0488
+Security Control: 0489
+
+Secure/Multipurpose Internet Mail Extension (10)
+
+Security Control: 0490
+Security Control: 0494
+Security Control: 0496
+Security Control: 1233
+Security Control: 0497
+Security Control: 0498
+Security Control: 0998
+Security Control: 0999
+Security Control: 1000
+Security Control: 1001
+
+Cryptographic system management (7)
+
+Security Control: 0142
+Security Control: 0143
+Security Control: 1091
+Security Control: 0501
+Security Control: 0499
+Security Control: 0505
+Security Control: 0506
+
+Guidelines for gateway management (26)
+
+Security Control: 0628
+Security Control: 1192
+Security Control: 0631
+Security Control: 0634
+Security Control: 0637
+Security Control: 0598
+Security Control: 1519
+Security Control: 0605
+Security Control: 1041
+Security Control: 0624
+Security Control: 0625
+Security Control: 1037
+Security Control: 0610
+Security Control: 0611
+Security Control: 0612
+Security Control: 1520
+Security Control: 0613
+Security Control: 0616
+Security Control: 0617 
+Security Control: 0629
+Security Control: 0607 
+Security Control: 0608
+Security Control: 0619
+Security Control: 0620
+Security Control: 1039
+Security Control: 0622
+
+
+Cross Domain Solutions (8)
+
+Security Control: 0626
+Security Control: 0597
+Security Control: 0627
+Security Control: 0635
+Security Control: 1521
+Security Control: 1522
+Security Control: 0670
+Security Control: 1523
+
+
+Firewalls (7)
+
+Security Control: 1527
+Security Control: 1528
+Security Control: 1193
+Security Control: 0639
+Security Control: 1194
+Security Control: 0641
+Security Control: 0642
+
+Diodes (7)
+
+Security Control: 0643
+Security Control: 0645
+Security Control: 1157
+Security Control: 1158
+Security Control: 0646
+Security Control: 0647
+Security Control: 0648
+
+Web content and connections (16)
+
+Security Control: 0258
+Security Control: 0260
+Security Control: 0261
+Security Control: 1235
+Security Control: 0263
+Security Control: 0996
+Security Control: 0958
+Security Control: 0995
+Security Control: 1170
+Security Control: 0959
+Security Control: 0960
+Security Control: 1171
+Security Control: 1236
+Security Control: 0963
+Security Control: 0961
+Security Control: 1237
+
+
+Peripheral switches (5)
+
+Security Control: 0591
+Security Control: 1480
+Security Control: 1457
+Security Control: 0593
+Security Control: 0594
+
+
+Guidelines for data transfers and content filtering (34)
+
+Security Control: 0663
+Security Control: 0661
+Security Control: 0665
+Security Control: 0675
+Security Control: 0664
+Security Control: 0657
+Security Control: 0658
+Security Control: 1187
+Security Control: 0669
+Security Control: 1535
+Security Control: 0678
+Security Control: 0667
+Security Control: 0660
+Security Control: 0673
+Security Control: 1294
+Security Control: 1295
+Security Control: 0659
+Security Control: 1524
+Security Control: 0651 
+Security Control: 0652
+Security Control: 1389 
+Security Control: 1284
+Security Control: 1285
+Security Control: 1286
+Security Control: 1287
+Security Control: 1288
+Security Control: 1289
+Security Control: 1290
+Security Control: 1291
+Security Control: 0649
+Security Control: 0650
+Security Control: 1292
+Security Control: 0677
+Security Control: 1293
+
+
+
+
